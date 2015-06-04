@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.pyc
+home.png
+.DS_Store
+key.txt
+.ropeproject/
